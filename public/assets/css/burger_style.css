@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(15, 139, 216) !important;
+}
+
+
+.jumbotron {
+    background-image: url("https://www.mcdonalds.com/content/dam/usa/nutrition/items/iconic/desktop/t-mcdonalds-double-baconsmokehouse.jpg");
+    background-position: center;
+    align-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
